@@ -1,2 +1,8 @@
 # cron_VET
-Apenas um projeto de site para veterinários para fixar conhecimento e... usar 
+Projeto de cronograma para veterinátio.
+
+• Registros e consultas de clientes, medicações, horários de plantões.
+• Sistema de alarme para avisar quando tem algum plantão se aproximando.
+
+
+
