@@ -1,12 +1,43 @@
 body{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: rosybrown;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
 }
 
 .formlogin{
-    margin-top: 15em;
+    width: 26vw;
+}
+
+input{
+    margin-bottom: 1em;
 }
 
 fieldset{
     margin: 2em;
+    padding-top: 1em;
+}
+
+#text{
+    margin-bottom: 1em;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 17, 255);
+    text-transform: uppercase;
+}
+
+a:hover{
+    color: rgb(52, 52, 221);
 }
